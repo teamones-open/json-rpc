@@ -1,2 +1,3 @@
-# json-rpc
-基于 stream_socket_client 的 rpc客户端封装
+# json-rpc 2.0
+
+JSON-RPC是一个无状态且轻量级的远程过程调用(RPC)协议。 本规范主要定义了一些数据结构及其相关的处理规则。它允许运行在基于socket,http等诸多不同消息传输环境的同一进程中。
